@@ -10,7 +10,7 @@ baseurl: "" # apply repo name if use it under gh-pages branch
 
 google_analytics: UA-XXXXX-XX
 repo: http://github.com/joemb.github.io
-disqus_shortname: "heiswayi"
+disqus_shortname: "joemb64"
 twitter_username: "HeiswayiNrird"
 comments: true
 
